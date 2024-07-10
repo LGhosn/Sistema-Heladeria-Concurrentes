@@ -1,0 +1,4 @@
+{ "flavours": {"dulce_de_leche": 2, "banana_split": 1}, "card_number": "0000-1111-2222-3333"}
+{ "flavours": {"chocolate": 2, "banana_split": 1}, "card_number": "3000-1111-2222-3333"}
+{ "flavours": {"dulce_de_leche": 2, "chocolate": 1}, "card_number": "1234-1111-2222-3333"}
+{ "flavours": {"dulce_de_leche": 20000, "chocolate": 1}, "card_number": "1234-1111-2222-3333"}
